@@ -1,4 +1,4 @@
-## nonsense.devs.getAll()
+## nonsense-devs.code()
 
 You can use the [editor on GitHub](https://github.com/nonsense-devs/nonsense-devs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
